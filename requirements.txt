@@ -6,10 +6,7 @@ seaborn
 streamlit
 scikit-learn
 joblib
-## model used in NLP
-LogisticRegression 
-MultinomialNB
-LinearSVM
+
 
 
 
