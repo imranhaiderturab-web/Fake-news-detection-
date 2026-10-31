@@ -1,0 +1,12 @@
+## Library used
+numpy
+pandas
+matplotlib
+seaborn
+## model used in NLP
+LogisticRegression 
+MultinomialNB
+LinearSVM
+
+
+
